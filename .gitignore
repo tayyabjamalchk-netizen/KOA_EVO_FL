@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Datasets
+Datasets/
+
+# Python Cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.keras
+*.h5
+
+# Logs
+*.csv
+
+# VS Code
+.vscode/
